@@ -1,0 +1,2 @@
+truffle test
+pause
